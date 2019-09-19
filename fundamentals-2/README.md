@@ -1,4 +1,5 @@
 # Fundamentals 2
+
 ## Coding Standards
 
 ###  - File organization 
@@ -26,7 +27,22 @@
  
      - Method declaration is known has a method signature
 	 
-	 
-	 ## Intelijj Shortcuts
+## Intelijj Shortcuts
 		
-		- psvm  snippet main method
+	- psvm  snippet main method
+	- sout  System.out.println() snippet
+	
+## Variables in Java
+
+	- We started with int variables,  and a small reference to the difference between primitive variables
+	- Naming conventions for variables, camel case  as a good practice
+
+	
+	. long types may be used for example in database indexes
+	
+	. float pi = 3.14f; // how to define a float, the "f" in the end makes it explicit, can´t be casted
+                            // float vs double use case have to do with precision points
+    . double pi2 = 3.14d; // how to define a double, the "d" in the end makes it explicit, can´t be casted
+	
+	
+	
