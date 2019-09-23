@@ -1,0 +1,8 @@
+// Other solution 
+
+  /* Pattern codon = Pattern.compile(codonStart);
+             Matcher match = codon.matcher(dna);
+
+             Integer idxStart = match.start();
+             Integer idxEnd = match.end();
+             System.out.printf("Start Index: %d \n Index end: %d ", idxStart, idxEnd);*/
