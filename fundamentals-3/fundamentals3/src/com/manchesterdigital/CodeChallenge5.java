@@ -19,7 +19,7 @@ public class CodeChallenge5 {
         }
 
     }
-    
+
     public static void main(String[] args) {
         System.out.println(luckySum(1, 2, 3));
         System.out.println(luckySum(1, 2, 13));
