@@ -27,15 +27,12 @@ public class TddCodingChallenge1 {
 
         StringBuilder result = new StringBuilder();
 
-        if(number % 3 == 0){
-            result.append("fizz");
-        } else if(number % 5 == 0) {
-
-            result.append("fizz");
-
-        } else if(number % 3 == 0 && number % 5 == 0) {
-
+        if(number % 15 == 0) {
             result.append("fizzbuzz");
+        }else if(number % 3 == 0) {
+            result.append("fizz");
+        }else if(number % 5 == 0) {
+            result.append("buzz");
         }else{
             result.append(number);
         }
