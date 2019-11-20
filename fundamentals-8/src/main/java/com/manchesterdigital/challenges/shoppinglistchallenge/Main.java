@@ -26,6 +26,7 @@ public class Main {
 
         shoppingList.removeItem("Meat");
         shoppingList.printIdxOfAllProductsInList();
+
      /*   System.out.println("Compare test: " + item.compareTo(item2));
         System.out.println("True " + shoppingList.getListOfItems().contains("Milk"));*/
 

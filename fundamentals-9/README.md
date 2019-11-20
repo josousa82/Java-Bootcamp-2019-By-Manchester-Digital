@@ -14,6 +14,6 @@
 	* polymorphism
 	* abstration
 * Maps
-* Sets
+	* HashMaps
 
 > Tutored By Assad Ahmad
