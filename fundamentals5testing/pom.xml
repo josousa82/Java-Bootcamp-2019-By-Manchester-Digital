@@ -18,7 +18,7 @@
         <dependency>
             <groupId>junit</groupId> <!--Name framework-->
             <artifactId>junit</artifactId> <!--name framework-->
-            <version>4.12</version> <!--Junit version-->
+            <version>4.13.1</version> <!--Junit version-->
             <scope>test</scope> <!--Do not include this jar on my code-->
         </dependency>
 
